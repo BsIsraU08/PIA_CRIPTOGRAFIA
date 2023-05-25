@@ -3,14 +3,6 @@
 ## Propósito
 Implementar sistemas criptográficos para fomentar el cuidado de la información sensible.
 
-## Instalación
-```powershell
-git clone [https://github.com/BsIsraU08/PIA_CRIPTOGRAFIA]
-cd PIA-CRIPTO
-pip3 install -r REQUIREMENTS.txt
-```
-> **Advertencia:** este software solo asegura compatibilidad con Windows 10 y Windows 11, usando Python 3.10+
-
 ## Funcionalidad
 El programa utiliza diversos métodos de Encriptación Simétricos y Asimétricos (Curvas Elípticas, Fernet, Firma Dígital) para la creación de llaves públicas y privadas para poder realizar el cifrado de archivos y mensajes, además de la firma dígital de documentos.
 
@@ -18,12 +10,14 @@ El programa utiliza diversos métodos de Encriptación Simétricos y Asimétrico
 Para utilizar el programa será necesario localizarse mediante el cmd a la carpeta PIA-CRIPTO, una vez dentro ejecutar el programa PIA.py
 ```
 cd PIA-CRIPTO
+pip install -r REQUIREMENTS.txt
 python PIA.py
 ```
 ## Modo de uso para la DApp (la Dapp tiene limitadas funcionalidades del programa PIA.py)
 Desde el cmd ejecutar programa dapp
 ```
 cd PIA-CRIPTO
+pip install -r REQUIREMENTS.txt
 python dapp.py
 ```
 Se mostrará en la línea de comandos que el servidor ya se encuentra activo y se te proporcionará la siguiente dirección: http://127.0.0.1:5000, colocar esta url en una pestaña de tu navegador favorito. 
