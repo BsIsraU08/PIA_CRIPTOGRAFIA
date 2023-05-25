@@ -1,0 +1,2 @@
+El archivo "PIA.py" es el programa en el que se realizan los requerimientos que pidió.
+El archivo "dapp.py" es la DApp que se pide, solamente guarda información y con el registro del usuario se crean los certificados.

@@ -1,0 +1,19 @@
+<!-- ingresar_mensaje.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ingresar Mensaje</title>
+</head>
+<body>
+    <h1>Ingresar Mensaje</h1>
+    <form action="/ingresar_mensaje" method="POST">
+        <label for="usuario">Usuario:</label>
+        <input type="text" id="usuario" name="usuario" required><br><br>
+        <label for="contrasena">Contraseña:</label>
+        <input type="password" id="contrasena" name="contrasena" required><br><br>
+        <label for="mensaje">Mensaje:</label>
+        <textarea id="mensaje" name="mensaje" rows="4" cols="50" required></textarea><br><br>
+        <input type="submit" value="Firmar Mensaje">
+    </form>
+</body>
+</html>
