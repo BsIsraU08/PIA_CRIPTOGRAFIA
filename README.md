@@ -9,14 +9,14 @@ El programa utiliza diversos métodos de Encriptación Simétricos y Asimétrico
 ## Modo de uso en CMD
 Para utilizar el programa será necesario localizarse mediante el cmd a la carpeta PIA-CRIPTO, una vez dentro ejecutar el programa PIA.py
 ```
-cd PIA-CRIPTO
+cd PIA-Cripto
 pip install -r REQUIREMENTS.txt
 python PIA.py
 ```
 ## Modo de uso para la DApp (la Dapp tiene limitadas funcionalidades del programa PIA.py)
 Desde el cmd ejecutar programa dapp
 ```
-cd PIA-CRIPTO
+cd PIA-Cripto
 pip install -r REQUIREMENTS.txt
 python dapp.py
 ```
