@@ -15,9 +15,11 @@ pip3 install -r REQUIREMENTS.txt
 El programa utiliza diversos métodos de Encriptación Simétricos y Asimétricos (Curvas Elípticas, Fernet, Firma Dígital) para la creación de llaves públicas y privadas para poder realizar el cifrado de archivos y mensajes, además de la firma dígital de documentos.
 
 ## Modo de uso
-Para utilizar el programa será necesario localizarse mediante el cmd a la carpeta PIA_CRIPTOGRAFIA, una vez dentro ejecutar el programa PIA.py
+Para utilizar el programa será necesario localizarse mediante el cmd a la carpeta PIA-CRIPTO, una vez dentro ejecutar el programa PIA.py
+```
 cd PIA-CRIPTO
 python PIA.py
+```
 
 ## Créditos
 + **Jesús Israel Bolaños Uvalle
