@@ -23,17 +23,10 @@ python dapp.py
 Se mostrará en la línea de comandos que el servidor ya se encuentra activo y se te proporcionará la siguiente dirección: http://127.0.0.1:5000, colocar esta url en una pestaña de tu navegador favorito. 
 
 
-## DATOS
-```
-Materia: Criptografía
-Profesor: Alejandro Muñiz Solorio
-Grupo: 062
-```
-
 ## Créditos
-+ **Jesús Israel Bolaños Uvalle 2005587
-+ **Yordi Alejandro González Campos 1955480
-+ **Jorge Luis Rivera Lores 1996913
-+ **Yahir Israel Espinoza Rocha 1978269
-+ **Pedro Ángel García Mártinez 1989989
-+ **Jairo Ivan Hernández Hernández 1926940
++ **Jesús Israel Bolaños Uvalle
++ **Yordi Alejandro González Campos 
++ **Jorge Luis Rivera Lores 
++ **Yahir Israel Espinoza Rocha 
++ **Pedro Ángel García Mártinez 
++ **Jairo Ivan Hernández Hernández 
